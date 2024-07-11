@@ -23,6 +23,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/dharmendrakumar35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmendrakumar35" height="30" width="40" /></a>
 <a href="https://instagram.com/dharmendra_sharma8210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharmendra_sharma8210" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100012986076480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012986076480" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/0dharmendra35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/0dharmendra35" height="30" width="40" /></a>
 </p>
 
 
