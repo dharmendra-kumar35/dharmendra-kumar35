@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/him
 - 🔭 I'm currently working on a Fullstack Web Project<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about Java, Web Development or any tech-related stuff.
 - 📫 How to reach me: Check the social links below.
